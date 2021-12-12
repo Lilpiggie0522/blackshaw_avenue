@@ -1,0 +1,12 @@
+.streetView {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.streetView > img{
+    width: 100%;
+}
+
+.streetView > h2 {
+    text-align: center;
+}
