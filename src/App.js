@@ -13,9 +13,9 @@ function App() {
     <div className="App">
       <Room image = {bathroom1} title="洗手台"/>
       <Room image ={bathroom2} title="洗手间"/>
-      <Room image={bed} title="客厅"/>
+      <Room image={bed} title="要租的屋的床"/>
       <Room image={kitchen} title="厨房"/>
-      <Room image={living_room} title="要租的屋的床"/>
+      <Room image={living_room} title="客厅"/>
       <Room image={study_desk} title="学习桌"/>
       <Room image={wardrobe} title="衣柜"/>
     </div>
